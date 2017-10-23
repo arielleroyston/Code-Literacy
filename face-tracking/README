@@ -1,0 +1,15 @@
+For this assignment, I wanted to try to create a snapchat filter for my face.
+I initially picked the face tracking example because I thought this would be the most 
+realistic example to play around with, since face coordinates were already available.
+
+I ended up being on the correct track, but I couldn't necessarily do the fancy
+Snapchat filters within the confines of the facetracking example. I used the coordinates
+of various facial features to hold objects to create floating pieces, and therefore, a funny 
+face. However, getting the google-y eyes and mouth in the correct proportions
+was tricky. Still, I wish they could scae as the face moves closer to the camera,
+but that is too advanced.
+
+I used a cetntering mechanism to keep the image around the center dot. I also tried to
+add a hat, and added a lot of space under the image, but my computer doesn't
+let me run the exampe with the eyes and mouth. It works alone, though. Perhaps, it
+would work with a computer with more RAM.
